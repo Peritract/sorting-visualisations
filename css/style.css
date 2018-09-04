@@ -1,0 +1,26 @@
+* {
+	background-color: black;
+	font-size: 110%;
+	color: white;
+	text-align: center;
+}
+
+canvas {
+	border: 1px solid white;
+}
+
+h1 {
+	text-align: center;
+	font-size: 200%;
+}
+
+div {
+	margin-top: 3px;
+	text-align: center;
+}
+
+#Step_counter {
+	border: 1px solid white;
+	width: 80px;
+	display: inline-block;
+}
