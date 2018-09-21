@@ -1,2 +1,5 @@
-# sorting-visualisations
-Visualisations of sorting algorithms
+# Sorting Visualisations
+
+#### Visualisations of different sorting algorithms using Canvas
+
+
